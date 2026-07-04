@@ -1,0 +1,14 @@
+{
+  "itemGroup.anarchist": "Example Mod Tab",
+  "block.anarchist.example_block": "Example Block",
+  "item.anarchist.example_item": "Example Item",
+
+  "anarchist.configuration.title": "Anarchist Configs",
+  "anarchist.configuration.section.anarchist.common.toml": "Anarchist Configs",
+  "anarchist.configuration.section.anarchist.common.toml.title": "Anarchist Configs",
+  "anarchist.configuration.items": "Item List",
+  "anarchist.configuration.logDirtBlock": "Log Dirt Block",
+  "anarchist.configuration.magicNumberIntroduction": "Magic Number Text",
+  "anarchist.configuration.magicNumber": "Magic Number",
+  "item.anarchist.fycj" : "Red star"
+}
